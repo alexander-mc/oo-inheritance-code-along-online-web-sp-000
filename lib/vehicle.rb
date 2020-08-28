@@ -1,5 +1,4 @@
 class Vehicle
-require_relative "./vehicle.rb"
 
   attr_accessor :wheel_size, :wheel_number
  
